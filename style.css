@@ -28,12 +28,6 @@ h1 {
     text-align: center;
 }
 
-form div.form-action-buttons {
-    text-align: center;
-    size: 100px;
-    width: 100%;
-}
-
 form input {
     color: #0d0e0d;
     width: 50%;
